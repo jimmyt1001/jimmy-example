@@ -1,2 +1,2 @@
 # jimmy-example
-Just a few examples
+Hello all, just a few examples I'm working on
